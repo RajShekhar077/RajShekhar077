@@ -7,7 +7,7 @@
 I’m a BTech CSE student at Jaipur National University, building strong programming fundamentals and sharpening my problem-solving skills through C++, Data Structures and Algorithms.
 
 [![GitHub](https://img.shields.io/badge/GitHub-RajShekhar077-181717?style=for-the-badge&logo=github)](https://github.com/RajShekhar077)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-RajShekhar__007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]  (https://leetcode.com/u/RajShekhar_007/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-RajShekhar__007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RajShekhar_007/)  
 [![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajshekhar77707@gmail.com)  
 
 </div>
