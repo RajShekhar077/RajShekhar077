@@ -41,6 +41,22 @@ I'm building and documenting projects as I grow. Check my repositories for the l
 - **DSA Practice in C++** — solutions and notes from my problem-solving practice.
 - **Web Development Projects** — practical projects demonstrating frontend fundamentals.
 
+## 🏆 Certifications
+
+- **AI Upskilling Certificate: Technical Foundation** — *Qualcomm Academy* | [View Certificate](https://drive.google.com/file/d/1ffI6P9GbvAoftamXkEhq2DRm01f-7DDa/view?usp=drive_link)
+- **C++ Course: Learn the Essentials** — *Scaler Topics* | [View Certificate](https://drive.google.com/file/d/1E4eS_zHn6IztiDmMkm8VH4ZEr0laPy6Q/view?usp=drive_link)
+- **Advanced C++ Training** — *EduPyramids, SINE, IIT Bombay* | [View Certificate](https://drive.google.com/file/d/1A9DMgoqCn0EsxomQwruD8u-GWUgVBkt8/view?usp=drive_link)
+- **C++ Training** — *EduPyramids, SINE, IIT Bombay* | [View Certificate](https://drive.google.com/file/d/1EtbSKZjWiBMSn-Nv5RAXNt31_EJLUfDr/view?usp=drive_link)
+- **C Training** — *EduPyramids, SINE, IIT Bombay* | [View Certificate](https://drive.google.com/file/d/1ZUBndG6Mpq_SFN39Wtnn1RCBk3CQoVIr/view?usp=drive_link)
+
+## 💼 Experience
+
+### AI Data Analytics Intern — InAmigos Foundation
+**August 2026 – August 2026** [View Certificate](https://drive.google.com/file/d/151hmf2zYNYHiBpzo_r3STi9Ywco0sJ3T/view?usp=drive_link)
+
+- Completed an AI Data Analytics internship from **8 August 2026 to 21 August 2026**.
+- Gained exposure to data analysis, research, and data interpretation.
+
 ## 📈 GitHub Overview
 
 <div align="center">
