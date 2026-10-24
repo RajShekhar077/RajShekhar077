@@ -51,7 +51,7 @@ I'm building and documenting projects as I grow. Check my repositories for the l
 
 ## 💼 Experience
 
-### AI Data Analytics Intern — InAmigos Foundation [View Certificate](https://drive.google.com/file/d/151hmf2zYNYHiBpzo_r3STi9Ywco0sJ3T/view?usp=drive_link)
+### AI Data Analytics Intern — InAmigos Foundation - [View Certificate](https://drive.google.com/file/d/151hmf2zYNYHiBpzo_r3STi9Ywco0sJ3T/view?usp=drive_link)
 **August 2026 – August 2026**
 
 - Completed an AI Data Analytics internship from **8 August 2026 to 21 August 2026**.
