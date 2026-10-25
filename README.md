@@ -51,6 +51,7 @@ I'm a BTech CSE student at Jaipur National University. I build my fundamentals t
 <br/>
   Worked on data analysis, research and data interpretation.
 <br/>
+
 ## Certifications
 
 | Certificate | Issuer | Link |
