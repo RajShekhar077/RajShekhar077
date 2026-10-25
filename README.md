@@ -32,7 +32,7 @@ I'm a BTech CSE student at Jaipur National University. I build my fundamentals t
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js, python&perline=6" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python&perline=6" alt="Tech stack"/>
 
 <br/>
 
@@ -50,8 +50,7 @@ I'm a BTech CSE student at Jaipur National University. I build my fundamentals t
 **AI Data Analytics Intern** at InAmigos Foundation
 <br/>
 8 August 2026 to 21 August 2026 | [View Certificate](https://drive.google.com/file/d/151hmf2zYNYHiBpzo_r3STi9Ywco0sJ3T/view?usp=drive_link)
-
-- Worked on data analysis, research and data interpretation.
+Worked on data analysis, research and data interpretation.
 
 <br/>
 
