@@ -32,7 +32,7 @@ I'm a BTech CSE student at Jaipur National University. I build my fundamentals t
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python&perline=6" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=c, cpp, html, css, js, python&perline=6" alt="Tech stack"/>
 
 <br/>
 
