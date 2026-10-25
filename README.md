@@ -40,8 +40,8 @@ I'm a BTech CSE student at Jaipur National University. I build my fundamentals t
 
 | Project | What it is |
 |:--------|:-----------|
-| [**DSA Practice in C++**](https://github.com/RajShekhar077?tab=repositories) | Problem-solving solutions and notes |
-| [**Web Development Projects**](https://github.com/RajShekhar077?tab=repositories) | Frontend projects built on HTML, CSS and JavaScript |
+| [**DSA Practice**](https://github.com/RajShekhar077/DSA-Practice) | Problem-solving solutions and notes |
+| [**Web Development Projects**](https://github.com/RajShekhar077/Web-Development-Projects) | Frontend projects built on HTML, CSS and JavaScript |
 
 <br/>
 
