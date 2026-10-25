@@ -52,6 +52,7 @@ I'm a BTech CSE student at Jaipur National University. I build my fundamentals t
 8 August 2026 to 21 August 2026
 <br/>
   Worked on data analysis, research and data interpretation.
+  
 <br/>
 
 ## Certifications
