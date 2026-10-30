@@ -55,6 +55,22 @@ I'm a BTech CSE student at Jaipur National University. I build my fundamentals t
   
 <br/>
 
+## Achievements
+
+| Achievement | Details |
+|:------------|:--------|
+| **1st Place, Internal Smart India Hackathon (SIH) 2026** | Won first position with Soil Mitra, a solution built to tackle a real-world problem statement |
+
+<br/>
+
+## Projects
+
+| Project | What it is |
+|:--------|:-----------|
+| [**Soil Mitra**](https://github.com/RajShekhar077/Soil-Mitra) | A soil-focused solution built for SIH 2026 that helps turn soil information into practical, easy-to-act-on insights. **Secured 1st position in the Internal SIH 2026 hackathon.** |
+
+<br/>
+
 ## Certifications
 
 | Certificate | Issuer | Link |
