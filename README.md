@@ -46,9 +46,9 @@ I'm a BTech CSE student at Jaipur National University. I build my fundamentals t
   100+ Problems Solved | Data Structures & Algorithms | C++
 
   Consistently solving LeetCode problems to strengthen my problem-solving skills, improve algorithmic thinking, and build a strong foundation in Data Structures and Algorithms.
-  <br/>
+ 
 </div>
-
+ <br/> <br/>
 ## Featured Work
 
 | Project | What it is |
