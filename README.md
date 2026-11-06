@@ -24,6 +24,7 @@ I'm a BTech CSE student at Jaipur National University. I build my fundamentals t
 |:-----|:--------|
 | **Education** | BTech CSE, Jaipur National University |
 | **Practising** | Data Structures and Algorithms in C++ |
+| **LeetCode** | Solved 100+ Questions of DSA |
 | **Experience** | AI Data Analytics Intern, InAmigos Foundation |
 | **Goal** | Software Development Engineer (SDE) internships |
 | **Open to** | Collaborative projects and learning opportunities |
@@ -35,6 +36,24 @@ I'm a BTech CSE student at Jaipur National University. I build my fundamentals t
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python&perline=6" alt="Tech stack"/>
 
 <br/>
+
+## LeetCode Journey
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="100+ LeetCode Problems Solved"/>
+
+  <br/><br/>
+
+  **100+ Problems Solved | Data Structures & Algorithms | C++**
+
+  Consistently solving LeetCode problems to strengthen my problem-solving skills, improve algorithmic thinking, and build a strong foundation in Data Structures and Algorithms.
+
+  <a href="https://leetcode.com/u/rajshekharrrr/">
+    <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+
+</div>
 
 ## Featured Work
 
