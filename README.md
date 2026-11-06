@@ -43,15 +43,11 @@ I'm a BTech CSE student at Jaipur National University. I build my fundamentals t
 
   <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="100+ LeetCode Problems Solved"/>
 
-  <br/><br/>
+  <br/>
 
   **100+ Problems Solved | Data Structures & Algorithms | C++**
 
   Consistently solving LeetCode problems to strengthen my problem-solving skills, improve algorithmic thinking, and build a strong foundation in Data Structures and Algorithms.
-
-  <a href="https://leetcode.com/u/rajshekharrrr/">
-    <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
-  </a>
 
 </div>
 
