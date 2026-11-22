@@ -7,7 +7,7 @@
 </a>
 
 <br/>
-
+<a href="https://www.linkedin.com/in/rajshekhar777/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://leetcode.com/u/rajshekharrrr/"><img src="https://img.shields.io/badge/LeetCode-rajshekharrrr-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://rajshekhar077.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:rajshekhar77707@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
